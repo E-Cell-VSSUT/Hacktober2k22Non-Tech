@@ -47,3 +47,6 @@ You have to follow these simple steps once you have forked and cloned the reposi
 * When you are giving a PR make sure to mention the issue number that you have resolved in the commit message. 
 
 All you have to do after this is wait for your PR to be reviewed by the maintainer and merged :v:. 
+
+
+# We allow multiple submissions for an issue , so it isn't a problem if somebody else has resolved the issue, you can give your submission for the same :v:
