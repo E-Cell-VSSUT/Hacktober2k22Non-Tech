@@ -1,0 +1,84 @@
+In the broadest definition, a sensor is a device, module, machine, or subsystem whose purpose is to detect events or changes in its environment and send the information to other electronics, frequently a computer processor. A sensor is always used with other electronics.
+There are different types of sensors that are used for various purposes:
+SPEED SENSOR:
+Sensors used for detecting speed of an object or vehicle is called as Speed sensor. There are different types of sensors to detect the speed such as Wheel speed sensors, speedometers, LIDAR, ground speed radar, pitometer logs, doppler radar, air speed indicators, pitot tubes and so on.
+PIC microcontroller based project for speed synchronization of multiple motors 
+One of the multiple motors in the industry is considered as a main motor which act as  transmitter and remaining motors acting as receivers, will follow the speed of the main motor. 
+The main motor and all other motors are controlled by radio frequency wireless network.
+A reference RPM is given to each shaft and required speed of all motors can be obtained by entering the desired percentage using the keypad. 
+ 
+PASSIVE IR SENSOR:
+A  passive infrared sensor (PIR sensor) is an electronic sensor that measures infrared (IR) light radiating from objects in its field of view. They are most often used in PIR-based motion detectors. PIR sensors are commonly used in security alarms and automatic lighting applications.
+All objects with a temperature above absolute zero emit heat energy in the form of radiation. Usually this radiation isn't visible to the human eye because it radiates at infrared wavelengths, but it can be detected by electronic devices designed for such a purpose.
+ 
+
+ACCELEROMETER:
+An accelerometer is a tool that measures proper acceleration.
+It is used in various fields such as  Vehicles, biology, industries, navigation, transport .
+Accelerometers are used to measure the motion and vibration of a structure that is exposed to dynamic loads.
+Conceptually, an accelerometer behaves as a damped mass on a spring. When the accelerometer experiences an acceleration, the mass is displaced to the point that the spring is able to accelerate the mass at the same rate as the casing. The displacement is then measured to give the acceleration.
+ 
+TEMPERATURE SENSOR:
+ A temperature sensor is a thermocouple or a resistance temperature detector (RTD) that gathers the temperature from a specific source and alters the collected information into an understandable type.
+Temperature sensors are used in several applications namely HV system and AC system environmental controls, laboratory devices, food processing units, chemical handling, control systems, automotive industries.
+•	Thermocouples
+•	Thermistors
+•	Resistor temperature detectors
+•	Semiconductors
+•	Infrared sensors
+•	Thermometers
+The above are some type of temperature sensors.
+There are a lot of different types, but the most common is a thermistor. A thermistor is made of a material that changes resistance with temperature and the resistance is measured with a modified ohmmeter that reads out directly in temperature.
+ 
+
+ULTRASONIC SENSOR:
+Ultrasonic sensors emit short, high-frequency sound pulses at regular intervals. These propagate in the air at the velocity of sound. If they strike an object, then they are reflected back as echo signals to the sensor, which itself computes the distance to the target based on the time-span between emitting the signal and receiving the echo.
+It is used for:
+Liquid level sensing, trash level monitoring, vehicle detection for car washes, to measure distance, light sensors ,anti collision detection.
+ 
+TOUCH SENSOR:
+Touch Sensors are the electronic sensors that can detect touch. They operate as a switch when touched. These sensors are used in lamps, touch screens of the mobile.
+When they are subjected to touch, pressure or force they get activated and when removed behave as open switch.
+ 
+
+IR SENSOR:
+All objects which have a temperature greater than absolute zero (0 Kelvin) posses thermal energy and are sources of infrared radiation as a result and it can detect the radiation and heat from objects.
+Infrared sensors can be active or passive and they can be split into two main types:
+Thermal infrared sensors – use infrared energy as heat. It is independent of wavelength.
+Quantum infrared sensors –  their photo sensitivity is dependent on wavelength
+It’s key application are: solar lights , night vision devices , infrared astronomy, object detection, spectroscopy, proximity sensing, rail safety, meteorology , climatology.
+ 
+SMOKE SENSOR:
+A smoke detector is a device that senses smoke.
+Ionization-type smoke alarms have a small amount of radioactive material between two electrically charged plates, which ionizes the air and causes current to flow between the plates. When smoke enters the chamber, it disrupts the flow of ions, thus reducing the flow of current and activating the alarm. 
+ 
+
+COLOUR SENSOR:
+To detect the color of material three main types of equipment are required. A light source to illuminate the material surface, a surface whose color has to be detected and the receivers which can measure the reflected wavelengths.
+Colour sensors are applied to measure, detect the color of the surfaces. These sensors have a wide range of applications in industrial, medical and security systems.
+ 
+PROXIMITY SENSOR:
+A proximity sensor is a sensor able to detect the presence of nearby objects without any physical contact.
+A proximity sensor often emits an electromagnetic  field or  IR radiation  and looks for changes in the field or return signal. 
+Types of proximity sensors:
+Capacitive
+Capacitive displacement sensor
+Doppler effect (sensor based on doppler effect)
+Inductive
+Magnetic, including magnetic proximity fuse
+Optical
+Application:
+Mobile devices
+Touch screens that come in close proximity to the face
+Attenuating radio power in close proximity to the body, in order to reduce radiation exposure
+ Anti-aircraft warfare
+Roller coasters
+Conveyor systems
+Beverage and food can making lines
+ 
+MOTION DETECTOR:
+A motion detector is an electrical device that utilizes a sensor to detect nearby motion. security, automated lighting control, home control, energy efficiency, and other useful systems.
+ 
+Gesture detector
+Photodetectors and infrared lighting elements can support digital screens to detect hand motions and gestures with the aid of machine learning algorithms.
+ 
