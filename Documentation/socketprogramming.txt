@@ -1,0 +1,70 @@
+OCKET PROGRAMMING: First, we must know the concept of both the server and the client. 
+A server is a software that waits for client requests and serves or processes them accordingly. On the other hand, a client is requester of this service. 
+A client program request for some resources to the server and server responds to that request.
+
+Socket programming is a way of connecting two nodes on a network to communicate with each other. 
+Sockets (or socket programming) is a program that enables two sockets to send and receive data, bi-directionally, at any given moment. 
+One socket (node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. 
+Server forms the listener socket while client reaches out to the server. 
+The primary socket API functions and methods in this module are:  socket()  bind()  listen()  accept()  connect()  send()  close()
+
+STAGES:
+The steps involved in establishing a socket on the client side are as follows:
+1. Create a socket with the socket() system call
+2. Connect the socket to the address of the server using the connect() system call
+3. Send and receive data. There are a number of ways to do this, but the simplest is to use the read() and write() system calls. The steps involved in establishing a socket on the server side are as follows:
+1. Create a socket with the socket() system call
+2. Bind the socket to an address using the bind() system call. For a server socket on the Internet, an address consists of a port number on the host machine.
+3. Listen for connections with the listen() system call
+4. Accept a connection with the accept() system call. This call typically blocks until a client connects with the server.
+5. Send and receive data.
+
+CODE: We have to make two files, one for the server and another for client. 
+
+SERVER: server.py 
+
+import socket 
+s=socket.socket(socket.AF_INET,sockt.SOCK_STREAM) 
+s.bind((socket.gethostname(),1024)) 
+s.listen(5) 
+while True: 
+  clt,adr=s.accept()
+  print(f”Connection to (adr) established”) 
+  clt.send(bytes(“Hello World”, “utf-8”)) 
+  clt.close()
+  
+CLIENT: client.py 
+
+import socket s=socket.socket(socket.AF_INET,sockt.SOCK_STREAM) 
+s.connect((socket.gethostname(),1024)) 
+complete_message= ‘ ’ 
+while True: 
+  msg=s.recv(5) 
+  if len(msg)<=0: 
+  break 
+  complete_message += msg.decode(“utf-8”) 
+print(complete_message)
+
+
+GSM/GPRS: 
+GSM stands for Global System for Mobile Communication and GPRS stands for General Packet Radio Service. 
+It is an international standard for mobile telephones. It is an acronym that stands for Global System for Mobile Communications. 
+It is also sometimes referred to as 2G, as it is a second-generation cellular network. 
+PRS or General Packet Radio Service is an extension of the GSM Network. 
+GPRS is an integrated part of the GSM Network which provides an efficient way to transfer data with the same resources as GSM Network. 
+To use GPRS for internet access, and for the Arduino to request or serve webpages, you need to obtain the Access Point Name (APN) and a username/password from the network operator. 
+GPRS is a packet switching technology that stands for General Packet Radio Service. 
+It can provide idealized data rates between 56-114 kilobit per second. 
+
+BRAIN WAVE SENSOR: When a group of neurons experience this change in electrical impulse, they generate an electrical field which resembles a small vibration and which can be then detected on the scalp by an EEG sensors.
+Basically, the brain receives an electrical signal, which causes an action potential within neurons. 
+There are generally 5 types of Brain waves according to the frequency- Delta, Theta, Alpha, Beta and Gamma (from least to highest frequency).
+
+
+MUSCLE SENSOR: The muscle sensors measures muscle activity through the electric potential of the muscle, commonly referred to as electromyography. 
+When our brain tells your muscle to flex, it sends an electrical signal to our muscle to start recruiting motor units. 
+The harder you flex, the more motor units are synchronized to generate greater muscle force. 
+The greater the number of motor units synchronized, the more the electrical activity of our muscle increases. 
+The muscle sensors analyse the electrical activity and give output an analog signal that shows how hard the muscle is being flexed.
+  
+  
