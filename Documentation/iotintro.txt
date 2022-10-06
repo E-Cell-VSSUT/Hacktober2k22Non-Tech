@@ -1,0 +1,48 @@
+Introduction to IoT:
+IoT refers to ‘Internet of Things’. 
+It is the networking of physical objects that contain electronics embedded within their architecture in order to communicate and sense interactions amongst each other or with respect to the external environment.
+It is based on machine-to-machine communication, cloud computing and network of data gathering sensors. The basic motto behind IoT is that it assures that it will make everything from a light bulb to railway stations “smart”.
+
+Applications of IoT: There are lots of applications but some of them are:
+1)Smart Homes: The smart home is supposed to have the some following features:-
+Smart kitchen appliances: A smart kitchen that would make the house more functional and more appealing to the people buying the house which includes smart plate, smart keylock etc.
+
+2)Health Care: IoT applications can turn reactive medical-based systems into proactive wellness-based systems. The resources that current medical research uses, lack critical real-world information. It mostly uses leftover data, controlled environments, and volunteers for medical examination. 
+3)Wearables: One of the lesser-known wearables includes the Guardian glucose monitoring device. The device is developed to aid people suffering from diabetes. It detects glucose levels in the body, using a tiny electrode called glucose sensor placed under the skin and relays the information via Radio Frequency to a monitoring device.
+ 
+NODEMCU:
+The NodeMCU board is based on an ESP8266-12 but features a built-in serial over USB interface and other amenities like 2 buttons and 2 LEDs. The board is compact and fits on a breadboard. The board can be programmed using the Wiring / Arduinoframework as the other ESP8266 boards.
+
+Advantages of NodeMCU:
+1.	The ESP8266 is a low-cost Wi-Fi enabled microchip with full TCP/IP stack and microcontroller capability.
+2.	NodeMCU includes CPU core, faster Wi-Fi, more GPIOs, and supports Bluetooth 4.2, and low power Bluetooth.
+3.	Additionally, the ESP32 comes with touch sensitive pins, and built-in Hall Effect sensor and temperature sensor.
+4.	Very cheap as compared to Arduino Uno.
+
+Disadvantages of NodeMCU:
+1.	Need to learn a new language and IDE
+2.	Reduced pin out
+3.	Rare documentation
+
+ARDUINO:
+Arduino is a development board with sets of digital and analog input/output (I/O) pins that converts the codes into physical affects. In this platform, Arduino can serve as a node by connecting sensors to it. Arduino is an open source that allows anyone interested to contribute. It have large libraries and sample projects developed worldwide it is one of the most used microcontroller board. Arduino has an Atmel AVR microcontroller (ATmega328P), and other necessary side units for programming and connecting to other boards. There is at least 5V power-supply and 16 MHz crystal oscillator.
+
+Advantages of Arduino: 
+1. Low power architectures. 
+2. Easy to get started with great online support, rapid prototyping makes easy. 
+3. Easy interfacing with sensors and data collection. 
+4. Can send data wirelessly using Bluetooth, RF etc. to the server via a computer. 
+5. A lot of GPIOs with PWM capabilities. 
+6. Everyone can use IDE, python, ruby, embedded C etc. for programming it. 
+7. It’s completely an Open-source. 
+
+Disadvantages of Arduino: 1. Memory limitations (ATmega328P has 32KB of Flash memory for the boot-loader + uploaded sketch, and only 2KB SRAM for runtime data.) 
+2. Costlier than NodeMCU 
+3. Connectivity to the internet needs additional shields which are not cost friendly, especially in India. 
+4. Can’t run a lot heavy algorithms, or interface say a touch-screen etc. without using additional shields.
+
+WiFi Module (ESP8266):
+
+ESP8266 Wi-Fi module is low cost standalone wireless transceiver that can be used for end-point IoT developments. ESP8266 Wi-Fi module enables internet connectivity to embedded applications. It uses TCP/UDP communication protocol to connect with server/client. ESP8266 is Wi-Fi enabled system on chip (SoC) module which is mostly used for development of IoT (Internet of Things) embedded applications.ESP8266 module is low cost standalone wireless transceiver that can be used for end-point IoT developments.
+To communicate with the ESP8266 module, microcontroller needs to use set of AT commands. Microcontroller communicates with ESP8266-01 module using UART having specified Baud rate. (Default 115200 or 9600).
+
