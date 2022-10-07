@@ -1,0 +1,106 @@
+                                                         4 Types Of Data – Nominal, Ordinal, Discrete and Continuous:
+
+Introduction – Importance of Data
+“Data is the new oil.” Today data is everywhere in every field. Whether you are a data scientist, marketer, businessman, data analyst, researcher, or you are in any other profession, you need to play or experiment with raw or structured data. This data is so important for us that it becomes important to handle and store it properly, without any error. While working on these data, it is important to know the types of data to process them and get the right results. There are two types of data: Qualitative and Quantitative data, which are further classified into four types data: nominal, ordinal, discrete, and Continuous.
+
+Now business runs on data, and most companies use data for their insights to create and launch campaigns, design strategies, launch products and services or try out different things. According to a report, today, at least 2.5 quintillion bytes of data are produced per day.
+
+Types of Data:
+Qualitative or Categorical Data
+Qualitative or Categorical Data is data that can’t be measured or counted in the form of numbers. These types of data are sorted by category, not by number. That’s why it is also known as Categorical Data. These data consist of audio, images, symbols, or text. The gender of a person, i.e., male, female, or others, is qualitative data.
+
+Qualitative data tells about the perception of people. This data helps market researchers understand the customers’ tastes and then design their ideas and strategies accordingly. 
+
+The other examples of qualitative data are :
+What language do you speak
+Favorite holiday destination
+Opinion on something (agree, disagree, or neutral)
+Colors
+
+
+The Qualitative data are further classified into two parts :
+Nominal Data
+Nominal Data is used to label variables without any order or quantitative value. The color of hair can be considered nominal data, as one color can’t be compared with another color.
+
+The name “nominal” comes from the Latin name “nomen,” which means “name.” With the help of nominal data, we can’t do any numerical tasks or can’t give any order to sort the data. These data don’t have any meaningful order; their values are distributed into distinct categories.
+
+
+Examples of Nominal Data :
+Colour of hair (Blonde, red, Brown, Black, etc.)
+Marital status (Single, Widowed, Married)
+Nationality (Indian, German, American)
+Gender (Male, Female, Others)
+Eye Color (Black, Brown, etc.)
+Ordinal Data
+Ordinal data have natural ordering where a number is present in some kind of order by their position on the scale. These data are used for observation like customer satisfaction, happiness, etc., but we can’t do any arithmetical tasks on them. 
+
+Ordinal data is qualitative data for which their values have some kind of relative position. These kinds of data can be considered “in-between” qualitative and quantitative data. The ordinal data only shows the sequences and cannot use for statistical analysis. Compared to nominal data, ordinal data have some kind of order that is not present in nominal data.  
+
+Examples of Ordinal Data :
+When companies ask for feedback, experience, or satisfaction on a scale of 1 to 10
+Letter grades in the exam (A, B, C, D, etc.)
+Ranking of people in a competition (First, Second, Third, etc.)
+Economic Status (High, Medium, and Low)
+Education Level (Higher, Secondary, Primary)
+Difference between Nominal and Ordinal Data
+Nominal Data	Ordinal Data
+Nominal data can’t be quantified, neither they have any intrinsic ordering	Ordinal data gives some kind of sequential order by their position on the scale
+Nominal data is qualitative data or categorical data	Ordinal data is said to be “in-between” qualitative data and quantitative data
+They don’t provide any quantitative value, neither can we perform any arithmetical operation	They provide sequence and can assign numbers to ordinal data but cannot perform the arithmetical operation
+Nominal data cannot be used to compare with one another	Ordinal data can help to compare one item with another by ranking or ordering
+Examples: Eye color, housing style, gender, hair color, religion, marital status, ethnicity, etc	Examples: Economic status, customer satisfaction, education level, letter grades, etc 
+Quick Check – Introduction to Data Science
+
+Quantitative Data
+Quantitative data can be expressed in numerical values, making it countable and including statistical data analysis. These kinds of data are also known as Numerical data. It answers the questions like “how much,” “how many,” and “how often.” For example, the price of a phone, the computer’s ram, the height or weight of a person, etc., falls under quantitative data. 
+
+Quantitative data can be used for statistical manipulation. These data can be represented on a wide variety of graphs and charts, such as bar graphs, histograms, scatter plots, boxplots, pie charts, line graphs, etc.
+
+Examples of Quantitative Data : 
+Height or weight of a person or object
+Room Temperature
+Scores and Marks (Ex: 59, 80, 60, etc.)
+Time
+The Quantitative data are further classified into two parts :
+Discrete Data
+The term discrete means distinct or separate. The discrete data contain the values that fall under integers or whole numbers. The total number of students in a class is an example of discrete data. These data can’t be broken into decimal or fraction values.
+
+The discrete data are countable and have finite values; their subdivision is not possible. These data are represented mainly by a bar graph, number line, or frequency table.
+
+Examples of Discrete Data : 
+Total numbers of students present in a class
+Cost of a cell phone
+Numbers of employees in a company
+The total number of players who participated in a competition
+Days in a week
+
+Continuous Data
+Continuous data are in the form of fractional numbers. It can be the version of an android phone, the height of a person, the length of an object, etc. Continuous data represents information that can be divided into smaller levels. The continuous variable can take any value within a range. 
+
+The key difference between discrete and continuous data is that discrete data contains the integer or whole number. Still, continuous data stores the fractional numbers to record different types of data such as temperature, height, width, time, speed, etc.
+
+Examples of Continuous Data : 
+Height of a person
+Speed of a vehicle
+“Time-taken” to finish the work 
+Wi-Fi Frequency
+Market share price
+
+Difference between Discrete and Continuous Data:
+Discrete Data	Continuous Data
+Discrete data are countable and finite; they are whole numbers or integers	Continuous data are measurable; they are in the form of fractions or decimal
+Discrete data are represented mainly by bar graphs	Continuous data are represented in the form of a histogram
+The values cannot be divided into subdivisions into smaller pieces	The values can be divided into subdivisions into smaller pieces
+Discrete data have spaces between the values	Continuous data are in the form of a continuous sequence
+
+Examples: Total students in a class, number of days in a week, size of a shoe, etc	Example: Temperature of room, the weight of a person, length of an object, etc.
+
+
+Conclusion:
+In this article, we have discussed the data types and their differences. Working on data is crucial because we need to figure out what kind of data it is and how to use it to get valuable output out of it. It is also important to know what kind of plot is suitable for which data category; it helps in data analysis and visualization. Working with data requires good data science skills and a deep understanding of different types of data and how to work with them. 
+
+Different types of data are used in research, analysis, statistical analysis, data visualization, and data science. This data helps a company analyze its business, design its strategies, and help build a successful data-driven decision-making process. 
+
+
+
+
