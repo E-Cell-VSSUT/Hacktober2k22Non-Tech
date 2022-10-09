@@ -1,0 +1,18 @@
+                                                                                                                       Using Health IT Integration to Address the Drug Overdose Crisis
+
+
+The drug overdose crisis in the United States continues to expand – the Centers for Disease Control and Prevention (CDC) estimates that more than 107,000 Americans died of drug overdoses in 2021, an increase of nearly 15% from 93,655 deaths estimated in 2020.
+
+From 2018 to 2022, as part of efforts to support health IT use in response to the continued increase in drug overdose deaths, ONC and CDC collaborated to develop an interactive tool and resource called the Integration Framework. This tool provides guidance to states to improve integration of state Prescription Drug Monitoring Programs (PDMPs) with clinicians’ health IT systems.
+
+The Integration Framework includes how best to implement advanced technologies such as electronic clinical decision support (CDS) systems that clinicians are increasingly using to combat the crisis. It can help advance and scale PDMP integration with health IT systems (e.g., electronic health record (EHR) systems, health information exchanges, and pharmacy systems) in a variety of hospital, primary care, and outpatient settings.
+
+Today, clinician use of PDMPs is a promising state-level intervention to improve opioid prescribing, inform clinical practice, and support safer and more effective patient care.  Integrating PDMP data into EHR systems addresses barriers to accessing and using PDMP data to help inform clinical practice to improve opioid prescribing.
+To help inform the development of the Integration Framework, the ONC and CDC project team partnered with eight health systems across five states. Six health systems in three different states served as PDMP-EHR integration technical demonstration sites, enabling the project team to observe the successes, challenges, and impacts of PDMP-EHR integration. These sites were Baptist Health System (KY), Grace Health (KY), Utah Navajo Health System (UT), Blue Mountain Hospital (UT), Nemaha County Hospital (NE), and Ponca Health Services (NE). Two additional health systems (University of Colorado Denver/UC Health and University of Washington) served as proof-of-concept test sites to explore the feasibility of statewide implementation of electronic CDS tools.
+
+The electronic CDS tools were developed using the 2016 Guideline for Prescribing Opioids for Chronic Pain (2016 CDC Prescribing Guideline), which CDC is in the process of updating. It is anticipated that this update, the CDC Clinical Practice Guideline for Prescribing Opioids for Pain, will be released in late 2022. The forthcoming 2022 Guideline will provide recommendations for clinicians providing pain care, including acute (<1 month) and subacute (1-3 months) as well as chronic (>3 months) pain and can help improve communication between providers and patients, empowering them to make informed, patient-centered decisions related to safe and effective pain care. CDC plans to release a suite of translation and communication resources to facilitate effective implementation. In addition, CDC will refine and update the electronic CDS tools based on the final recommendations included in the forthcoming 2022 Clinical Practice Guideline.
+
+If you are preparing to integrate your health IT systems with your state’s PDMP and interested in electronic CDS tools, or if you are a state PDMP administrator, explore the Integration Framework for helpful guidance on successful PDMP and CDS integrations.
+
+
+
