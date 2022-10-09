@@ -1,0 +1,9 @@
+Flutter is a UI toolkit for building fast, beautiful, natively compiled applications for mobile, web, and desktop with one programing language and single codebase.
+Today, to overcome form this complexity, there are several frameworks have introduced that support both OS along with desktop apps. These types of the framework are known as cross-platform development tools.
+Flutter is different from other frameworks because it neither uses WebView nor the OEM widgets that shipped with the device.
+features:
+open sorce
+cross platform
+hot reload
+minimal code
+widgets
