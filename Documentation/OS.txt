@@ -1,0 +1,52 @@
+What is Operating system?
+An operating system is system software that manages computer hardware, software resources, and provides common services for computer programs.
+Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources.
+
+Types of Operating System?
+1.Single-tasking and multi-tasking
+2.Single- and multi-user
+3.Distributed
+4.Embedded
+5.Real-time
+6.Library
+
+Operating System used in Personal computers?
+The dominant general-purpose personal computer operating system is Microsoft Windows with a market share of around 74.99%. macOS by Apple Inc. is in second place (14.84%), and the varieties of Linux are collectively in third place (2.81%).[3] 
+In the mobile sector (including smartphones and tablets), Android's share is 70.82% in the year 2020. According to third quarter 2016 data, Android's share on smartphones is dominant with 87.5 percent with a growth rate of 10.3 percent per year, followed by Apple's iOS with 12.1 percent with per year decrease in market share of 5.2 percent, while other operating systems amount to just 0.3 percent.
+Linux distributions are dominant in the server and supercomputing sectors.
+Other specialized classes of operating systems (special-purpose operating systems),Such as embedded and real-time systems, exist for many applications. Security-focused operating systems also exist.
+Some operating systems have low system requirements.Others may have higher system requirements.
+
+What are OS are used?
+1.Unix and Unix-like operating systems:
+    Unix was originally written in assembly language.Ken Thompson wrote B, mainly based on BCPL, based on his experience in the MULTICS project. B was replaced by C, and Unix, rewritten in C, developed into a large, complex family of inter-related operating systems which have been influential in every modern operating system.
+
+2.BSD and its descendants:
+    A subgroup of the Unix family is the Berkeley Software Distribution family, which includes FreeBSD, NetBSD, and OpenBSD. These operating systems are most commonly found on webservers, although they can also function as a personal computer OS. The Internet owes much of its existence to BSD, as many of the protocols now commonly used by computers to connect, send and receive data over a network were widely implemented and refined in BSD. 
+The World Wide Web was also first demonstrated on a number of computers running an OS based on BSD called NeXTSTEP.
+
+3.macOS:
+    macOS (formerly "Mac OS X" and later "OS X") is a line of open core graphical operating systems developed, marketed, and sold by Apple Inc., the latest of which is pre-loaded on all currently shipping Macintosh computers. macOS is the successor to the original classic Mac OS, which had been Apple's primary operating system since 1984. Unlike its predecessor, macOS is a UNIX operating system built on technology that had been developed at NeXT through the second half of the 1980s and up until Apple purchased the company in early 1997. 
+The operating system was first released in 1999 as Mac OS X Server 1.0, followed in March 2001 by a client version (Mac OS X v10.0 "Cheetah"). 
+Since then, six more distinct "client" and "server" editions of macOS have been released, until the two were merged in OS X 10.7 "Lion".
+
+4.z/OS UNIX System Services:
+    First introduced as the OpenEdition upgrade to MVS/ESA System Product Version 4 Release 3, announced[21] February 1993 with support for POSIX and other standards. z/OS UNIX System Services is built on top of MVS services and cannot run independently.
+ While IBM initially introduced OpenEdition to satisfy FIPS requirements, several z/OS component now require UNIX services, e.g., TCP/IP.
+
+5.Linux:
+    The Linux kernel originated in 1991, as a project of Linus Torvalds, while a university student in Finland. He posted information about his project on a newsgroup for computer students and programmers, and received support and assistance from volunteers who succeeded in creating a complete and functional kernel.
+Linux is Unix-like, but was developed without any Unix code, unlike BSD and its variants. Because of its open license model, the Linux kernel code is available for study and modification, which resulted in its use on a wide range of computing machinery from supercomputers to smartwatches. Although estimates suggest that Linux is used on only 2.81% of all "desktop" (or laptop) PCs,[3] it has been widely adopted for use in servers[29] and embedded systems[30] such as cell phones. Linux has superseded Unix on many platforms and is used on most supercomputers including the top 385.[31] Many of the same computers are also on Green500 (but in different order), and Linux runs on the top 10. 
+Linux is also commonly used on other small energy-efficient computers, such as smartphones and smartwatches. 
+The Linux kernel is used in some popular distributions, such as Red Hat, Debian, Ubuntu, Linux Mint and Google's Android, Chrome OS, and Chromium OS.
+
+6.Microsoft Windows:
+    Microsoft Windows is a family of proprietary operating systems designed by Microsoft Corporation and primarily targeted to Intel architecture based computers, with an estimated 88.9 percent total usage share on Web connected computers.[32][33][34][35] The latest version is Windows 11.
+In 2011, Windows 7 overtook Windows XP as the most common version in use. Microsoft Windows was first released in 1985, as an operating environment running on top of MS-DOS, which was the standard operating system shipped on most Intel architecture personal computers at the time.
+
+What’s the Difference Between Firmware and an OS?
+    Many devices just run “firmware“—a type of low-level software that’s generally programmed directly into the memory of a hardware device. Firmware is usually just a small bit of software designed to do only the absolute basics.
+When a modern computer boots up, it loads UEFI firmware from the motherboard. This firmware is low-level software that quickly initializes your computer’s hardware. It then boots your operating system from your computer’s solid-state drive or hard drive. (That solid-state drive or hard drive has its own internal firmware, which handles storing data on the physical sectors inside the drive.)
+The line between firmware and an operating system can get a little blurry, too. For example, the operating system for Apple’s iPhones and iPads, named iOS, is often called a “firmware.” The PlayStation 4’s operating system is officially called a firmware, too.
+These are operating systems that interface with multiple hardware devices, provide services to programs, and allocate resources among applications. However, a very basic firmware that runs on a TV remote control, for example, isn’t generally called an operating system.
+    
