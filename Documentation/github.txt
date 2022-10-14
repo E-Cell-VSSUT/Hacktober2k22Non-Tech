@@ -1,0 +1,26 @@
+GITHUB
+
+Overview:
+    GitHub is a web-based version-control and collaboration platform for software developers. Microsoft, the biggest single contributor to GitHub, initiated an acquisition of GitHub for $7.5 billion in June, 2018. GitHub, which is delivered through a software-as-a-service (SaaS) business model, was started in 2008 and was founded on Git, an open source code management system created by Linus Torvalds to make software builds faster.
+
+Applications:
+    GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately. 
+
+    Three important terms used by developers in GitHub are fork, pull request and merge. A fork, also known as a branch, is simple repository that has been copied from one member's account to another member's account. Forks and branches allow a developer to make modifications without affecting the original code. If the developer would like to share the modifications, she can send a  pull request to the owner of the original repository. If, after reviewing the modifications, the original owner would like to pull the modifications into the repository, she can accept the modifications and merge them with the original repository. Commits are, by default, all retained and interleaved onto the master project, or can be combined into a simpler merge via commit squashing. 
+
+Steps TO Use Github:
+    Step 1 — Team members will open an issue via a project board.
+    Step 2 — Team members will create a new branch from the most recent version of the main branch in the repository where the entire team works to avoid conflicts.
+    Step 3 — Team members will add commits (edits/ changes) to their respective branches.
+    Step 4 — Team members will open a pull request in which users can assign other team members to review content changes and internally discuss the details of the commits.
+    Step 5 — After waiting for the Federalist build to complete, team members can preview the change on a test version of the website and request reviewers to approve or comment on the change. Once the reviewers approve the pull request, the commits merge into the main branch and are published on the live site.
+
+Github Marketplace service:
+    GitHub also provides some software as a service ("SaaS") integrations for adding extra features to projects. Those services include:
+
+    Waffle.io: Project management for software teams. Automatically see pull requests, automated builds, reviews, and deployments across all repositories.
+    Rollbar: Integrate with GitHub to provide real-time debugging tools and full-stack exception reporting. It is compatible with all popular code languages, such as JavaScript, Python, .NET, Ruby, PHP, Node.js, Android, iOS, Go, Java, and C#.[96][97]
+    Codebeat: For automated code analysis specialized in web and mobile developers. The supported languages for this software are Elixir, Go, Java, Swift, JavaScript, Python, Ruby, Kotlin, Objective-C, and TypeScript.
+    Travis CI: To provide confidence for your apps while doing test and ship. Also gives full control over the build environment, to adapt it to the code. Supported languages: Go, Java, JavaScript, Objective-C, Python, PHP, Ruby, and Swift.
+    GitLocalize: Developed for teams that are translating their content from one point to another. GitLocalize automatically syncs with your repository so you can keep your workflow on GitHub. It also keeps you updated on what needs to be translated.
+
