@@ -1,0 +1,33 @@
+The use of decentralised finance to offer financial services outside of the established banking system is growing in popularity.
+A new universe known as "Decentralized Finance" is taking shape thanks to the use of blockchain technology in the financial sector and the expansion of decentralised financial services (DeFi).
+Financial services are readily available everywhere, transactions are secure, transaction costs are minimal, and the newest DeFi trends are prevalent.
+
+Decentralized finance (DeFi) has the potential to offer a number of advantages, but before getting started, it's crucial to be aware of the risks.
+# What is decentralized finance – DeFi?
+Decentralized finance or DeFi is a monetary system that is built on public blockchains. The components of open finance consist of protocols, digital assets, dApps (decentralized applications), and smart contracts, which are built on blockchain.
+While many of us are familiar with Bitcoin and Ethereum as cryptocurrencies, very few of us are aware that they are open source, enormous networks that allow users to create programmes that allow financial activity to flourish without the involvement of centralised organisations.
+Decentralized finance has opened up a wide range of new opportunities for users to interact with the Ethereum blockchain in ways that weren't before conceivable.
+Using DeFi, users may trade digital assets without using a centralised exchange, earn interest on their cryptocurrency holdings, lend or borrow Ethereum-based assets, and much more.
+Decentralized finance is intended to offer customers an alternative to established financial institutions, which are frequently opaque and inaccessible.
+
+# How does DeFi work?
+Without the use of centralised intermediaries, decentralised finance offers a means of gaining access to financial services. On the Ethereum blockchain, peer-to-peer interactions are made possible by smart contracts. 
+A financial system's ability to function efficiently depends on two key elements: the infrastructure required for operation and the currency required for operation.
+Infrastructure: The DeFi platform Ethereum is used to create decentralised programmes.
+With the help of Ethereum, you may build smart contracts that specify a set of requirements or guidelines that must be met before a contract can be signed. A smart contract cannot be changed once it has been implemented.
+Currency - A coin that can be used to communicate with the various protocols is required in order to build a safe, dependable decentralised finance system. DeFi often employs the DAI stablecoin as its medium of exchange. A decentralised stablecoin tied to the US Dollar is called DAI.
+Now that we are aware of what DeFi is and how it operates, let's compare DeFi to the established financial system in our (decentralised finance) DeFi tutorial.
+
+# Traditional Finance vs Decentralized Finance
+While Decentralized Finance (DeFi) is only an advanced version of the finance structure with the same core working, lying in receiving and giving money,
+there are some inherent decentralized differences to consider for distinguishing between DeFi and fintech. The one that makes blockchain app development services 
+one of the key fintech trends for 2021 2022 and beyond. So, let’s move further to know the differences.
+
+-> Operations of DeFi are not managed by institutions and employees. Their role is played by algorithms written in code or via smart contracts in the DeFi environment.
+  Once a smart contract is deployed to the blockchain, DeFi apps run without any human intervention whereas in traditional finance, there are intermediaries like banks that manage the financial operations.
+-> One of the prominent DeFi features that clearly defines the differences between DeFi and traditional banking apps is that the former comes with the power of code transparency. This makes it possible for anyone to audit, which develops a trust with users because everyone has the opportunity of understanding 
+  the contract’s functionality. And since the transactions are pseudonymous, the privacy questions never emerge. However in traditional finance, the monetary operations are managed by intermediaries so security breaches may arise.
+-> dApps, another type of blockchain application used in the DeFi environment, have been designed to act globally from day one. Irrespective of which geographic location you belong to, the access of to DeFi networks and services are the same.
+  Whereas in case of traditional finance system , the services offered by financial institutions are restricted to their localities. For instance, you can only open a bank account in the country where the bank operates.
+-> Anybody can create decentralized finance applications and use them. Unlike present–day finance, there are no accounts or gatekeepers on this front and the users interact directly with smart contracts from DeFi crypto wallets. 
+-> The new decentralized finance applications are built and composed by mixing other DeFi products like in the case of Lego. For example, decentralized exchanges, stablecoins, and the prediction markets can be mixed to develop new products. However in traditional finance system,  the applications are single-purposed and each one of them is created for a specific task.
